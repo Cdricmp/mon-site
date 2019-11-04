@@ -21,6 +21,8 @@
         porro expedita laboriosam nemo eaque, cupiditate at laborum excepturi facilis? Cum dolor harum consectetur?
         Harum impedit consequuntur, ratione, eos quae in quia reiciendis cum doloremque debitis assumenda consectetur odit.
         Repellat ratione neque velit. Earum commodi, consequuntur aliquam eligendi quisquam obcaecati ut ratione iusto beatae?</p>
+        <hr>
+        <h2 class='text-success text-center'>Utilisation de GIT / GITHUB</h2>
     </div>
 </body>
 </html>
